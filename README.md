@@ -7,7 +7,7 @@
 
 I am 24 years old, I live in Brazil, I am currently practicing Node.js, React.js and React Native. Passionate about open source projects and with that create a organization called <a href="https://github.com/SpectrumTeam/introduction">Spectrum</a>. I like to spend my free time with video games and board games.
 
-<p align="center">
+<p align="left">
   <a href="https://twitter.com/bordmelo" target="_blank">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=30d9bb" alt="Twitter"/>
   </a>
