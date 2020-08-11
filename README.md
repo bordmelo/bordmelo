@@ -5,7 +5,7 @@
 
 ### A little more about me...  
 
-I am 24 years old, I live in Brazil, I am currently practicing Node.js, React.js and React Native. Passionate about open source projects and with that create a organization called <a href="https://github.com/SpectrumTeam/introduction">Spectrum</a>. I like to spend my free time with video games and board games.
+I am 24 years old, I live in Brazil, I am currently practicing Node.js, React.js and React Native. Passionate about open source projects and with that create a organization called <a href="https://github.com/SpectrumTeam/introduction">Spectrum</a>. I like to spend my free time playing video games and board games.
 
 <p align="left">
   <a href="https://twitter.com/bordmelo" target="_blank">
