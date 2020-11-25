@@ -1,6 +1,6 @@
 <h2> Hi, I'm Lucas Melo! <img src="https://raw.githubusercontent.com/bordmelo/bordmelo/master/assets/ghost.gif" width="30"></h2>
 <img align='right' src="https://raw.githubusercontent.com/bordmelo/bordmelo/master/assets/typing.gif" width="230">
-<p><em>FullStack Developer at </em><a href="https://oncar.com.br/" target="_blank"><img src="https://raw.githubusercontent.com/bordmelo/bordmelo/master/assets/oncar.png" height="12"> <strong>ON</strong>CAR</a> 
+<p><em>Tech Lead at </em><a href="https://oncar.com.br/" target="_blank"><img src="https://raw.githubusercontent.com/bordmelo/bordmelo/master/assets/oncar.png" height="12"> <strong>ON</strong>CAR</a> 
   </p>
 
 ### A little more about me...  
