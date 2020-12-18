@@ -1,11 +1,11 @@
-<h2> Hi, I'm Lucas Melo! <img src="https://raw.githubusercontent.com/bordmelo/bordmelo/master/assets/ghost.gif" width="30"></h2>
+<h2> Oi, meu nome é Lucas Melo! <img src="https://raw.githubusercontent.com/bordmelo/bordmelo/master/assets/ghost.gif" width="30"></h2>
 <img align='right' src="https://raw.githubusercontent.com/bordmelo/bordmelo/master/assets/typing.gif" width="230">
-<p><em>Tech Lead at </em><a href="https://oncar.com.br/" target="_blank"><img src="https://raw.githubusercontent.com/bordmelo/bordmelo/master/assets/oncar.png" height="12"> <strong>ON</strong>CAR</a> 
+<p><em>Tech Lead na </em><a href="https://oncar.com.br/" target="_blank"><img src="https://raw.githubusercontent.com/bordmelo/bordmelo/master/assets/oncar.png" height="12"> <strong>ON</strong>CAR</a> 
   </p>
 
-### A little more about me...  
+### Um pouco sobre mim...  
 
-I am 24 years old, I live in Brazil, I am currently practicing Node.js, React.js and React Native. Passionate about open source projects and with that create a organization called <a href="https://github.com/SpectrumTeam/introduction">Spectrum</a>. I like to spend my free time playing video games and board games.
+Tenho 24 anos, vivo em São José dos Campos interior de São Paulo, Atualmente estou reforçando os estudos em Node.js, React.js e React Native. No momento estou me aventurando na área de liderança técnica e organização de projetos.
 
 <p align="left">
   <a href="https://twitter.com/bordmelo" target="blank">
